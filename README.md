@@ -8,7 +8,8 @@
 -Matricula: 843086
 
 ## Tela de inspeção com navegador
-
+![webPageDevTool](https://github.com/user-attachments/assets/e102c8e4-4c80-41d8-97a1-b8d1788a5fdb)
 
 ## Tela de projeto no Replit
+
 
